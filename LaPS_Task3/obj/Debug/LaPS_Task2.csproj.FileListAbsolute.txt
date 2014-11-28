@@ -1,0 +1,9 @@
+C:\Users\Андрей\Documents\GitHub\ATM\LaPS_Task3\bin\Debug\LaPS_Task3.exe.config
+C:\Users\Андрей\Documents\GitHub\ATM\LaPS_Task3\obj\Debug\LaPS_Task2.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\GitHub\ATM\LaPS_Task3\obj\Debug\LaPS_Task2.Form1.resources
+C:\Users\Андрей\Documents\GitHub\ATM\LaPS_Task3\obj\Debug\LaPS_Task2.Properties.Resources.resources
+C:\Users\Андрей\Documents\GitHub\ATM\LaPS_Task3\obj\Debug\LaPS_Task2.csproj.GenerateResource.Cache
+C:\Users\Андрей\Documents\GitHub\ATM\LaPS_Task3\bin\Debug\LaPS_Task3.exe
+C:\Users\Андрей\Documents\GitHub\ATM\LaPS_Task3\bin\Debug\LaPS_Task3.pdb
+C:\Users\Андрей\Documents\GitHub\ATM\LaPS_Task3\obj\Debug\LaPS_Task3.exe
+C:\Users\Андрей\Documents\GitHub\ATM\LaPS_Task3\obj\Debug\LaPS_Task3.pdb

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace LaPS_Task3
+namespace LaPS_Task2
 {
     static class Program
     {
